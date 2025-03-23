@@ -1,0 +1,4 @@
+open3d
+pyceres
+matplotlib
+python-opencv
