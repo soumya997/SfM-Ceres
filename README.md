@@ -14,3 +14,4 @@ reconstruction resutls,
 <img src="media/templeRing.png">
 
 
+Working on the C++ version. 
